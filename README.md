@@ -1,4 +1,4 @@
 # khushnood-demo
 This is my first Repository.
 <br>
-Author - Khushnood Ali Khan
+Author - Khushnood Ali 
