@@ -19,4 +19,5 @@ main(){
     cout<<"Enter Num 4: ";
     cin>>num4;
     cout<<funct(num3,num4);
+    return 0;
 }
